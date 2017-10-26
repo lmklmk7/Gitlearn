@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git is  GHJKKL.
 Git has a mutable index called stage.
 Git hass a  sssssss.
+Git tracks changes.
